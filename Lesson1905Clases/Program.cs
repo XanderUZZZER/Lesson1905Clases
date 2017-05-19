@@ -10,6 +10,9 @@ namespace Lesson1905Clases
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Lesson 19.05 classes");
+
+            Console.ReadLine();
         }
     }
 }
